@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-thumb
 Version:	1.0
-Release:	7
+Release:	8
 Summary:	Thumb marks in documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumb
