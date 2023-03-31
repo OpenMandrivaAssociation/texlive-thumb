@@ -1,6 +1,6 @@
 Name:		texlive-thumb
 Version:	16549
-Release:	1
+Release:	2
 Summary:	Thumb marks in documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumb
