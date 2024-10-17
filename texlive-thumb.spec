@@ -3,7 +3,7 @@ Version:	16549
 Release:	2
 Summary:	Thumb marks in documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thumb
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumb.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumb.doc.r%{version}.tar.xz
